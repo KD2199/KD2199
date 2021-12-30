@@ -7,4 +7,4 @@ Firebase.
 
 Mail me @ kd.ds.2199@gmail.com
 
-Linkdn linkedin.com/in/karandave507
+Connect with Linkdn 📲 linkedin.com/in/karandave507
