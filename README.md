@@ -1,4 +1,4 @@
-👋 Hi, I’m Karan Dave.
+👋 Hi, I’m Karan Dave,
 
 Python Developer and Entry-Level Data Scientist. I have worked 
 on python web framework(Django, REST) , automation tool 
