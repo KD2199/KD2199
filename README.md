@@ -5,6 +5,6 @@ on python web framework(Django, REST) , automation tool
 (Selenium) , databases like MySQL, SQLite, PostgreSQL and 
 Firebase. 
 
-Mail me @ kd.ds.2199@gmail.com
+Mail me @ dave_karan@outlook.com
 
 Linkdn 📲 linkedin.com/in/karandave507
