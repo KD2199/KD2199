@@ -1,9 +1,6 @@
 👋 Hello, I’m Karan Dave,
 
-Python Developer and Entry-Level Data Scientist. I have worked 
-on python web framework(Django, REST) , automation tool 
-(Selenium) , databases like MySQL, SQLite, PostgreSQL and 
-Firebase. 
+Python Developer with experience of working with Django and Django Rest API. Also having experience of writing Unit and Pytest for testing the python web applications and integrating the third-party API with an application.
 
 Mail me @ dave_karan@outlook.com
 
